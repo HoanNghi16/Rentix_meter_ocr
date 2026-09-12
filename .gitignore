@@ -5,8 +5,9 @@ __pycache__/
 # Dataset
 dataset/raw/
 dataset/processed/
-/External Libraries
-/Scratches and Consoles
+External Libraries/
+/Scratches and Consoles/
+.idea/
 # Training
 checkpoints/*
 outputs/*
